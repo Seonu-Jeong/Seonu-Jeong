@@ -1,4 +1,6 @@
-## Hi there 👋
+## 문서 공유
+
+📑[API 명세서 템플릿](https://www.notion.so/API-15b16457c277808aaaf6ddbd1fb1a653)
 
 <!--
 **Seonu-Jeong/Seonu-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
