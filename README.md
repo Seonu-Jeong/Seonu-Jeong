@@ -2,7 +2,6 @@
 
 📑[API 명세서 템플릿](https://www.notion.so/API-15b16457c277808aaaf6ddbd1fb1a653)
 
-📒[회고록](https://zesty-beetle-b1a.notion.site/15616457c277800cb408fedbd4336aaf?pvs=4)
 <!--
 **Seonu-Jeong/Seonu-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
