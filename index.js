@@ -31,7 +31,7 @@ const parser = new Parser({
   // 피드 목록
   const feed = await parser.parseURL("https://devnona.tistory.com/rss"); // 본인의 블로그 주소
 
-  let text = `<ul>`;
+  text += `<ul>`;
 
   // 피드 항목 배열 가져오기
   const items = feed.items || [];
