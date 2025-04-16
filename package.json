@@ -1,0 +1,17 @@
+{
+  "name": "seonu-jeong",
+  "version": "1.0.0",
+  "description": "📑[API 명세서 템플릿](https://www.notion.so/API-15b16457c277808aaaf6ddbd1fb1a653)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
